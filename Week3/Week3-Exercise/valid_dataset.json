@@ -1,0 +1,66 @@
+[
+  {
+    "type": "valid",
+    "capacities": {
+      "S1": 500,
+      "S2": 400
+    },
+    "demand": 650,
+    "allocations": {
+      "S1": 300,
+      "S2": 350
+    }
+  },
+  {
+    "type": "valid",
+    "capacities": {
+      "S1": 200,
+      "S2": 350,
+      "S3": 400
+    },
+    "demand": 500,
+    "allocations": {
+      "S1": 100,
+      "S2": 200,
+      "S3": 200
+    }
+  },
+  {
+    "type": "valid",
+    "capacities": {
+      "S1": 100,
+      "S2": 250
+    },
+    "demand": 300,
+    "allocations": {
+      "S1": 50,
+      "S2": 250
+    }
+  },
+  {
+    "type": "valid",
+    "capacities": {
+      "S1": 450,
+      "S2": 300,
+      "S3": 200
+    },
+    "demand": 600,
+    "allocations": {
+      "S1": 200,
+      "S2": 300,
+      "S3": 100
+    }
+  },
+  {
+    "type": "valid",
+    "capacities": {
+      "S1": 700,
+      "S2": 500
+    },
+    "demand": 900,
+    "allocations": {
+      "S1": 400,
+      "S2": 500
+    }
+  }
+]
